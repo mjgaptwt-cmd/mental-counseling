@@ -11,6 +11,11 @@
 ### 分析中の画面
 <img src="docs/images/loading.png" width="1200" alt="分析中">
 
+
+### コンソールの実行ログ
+<img src="docs/images/console.png" width="1200" alt="コンソールの実行ログ">
+
+
 ### 実行結果の画面
 <img src="docs/images/result.png" width="1200" alt="実行結果画面">
 
