@@ -52,7 +52,7 @@
 ## 構成
 
 ```
-src/main/java/com/example/survivorslog
+src/main/java/com/example/mentalcounseling
 ├── LogController.java            画面とのやり取り
 ├── CounselingService.java        3つのAIの呼び出し順と切り替えの制御
 ├── GeminiAnalysisService.java    AI① 分析
