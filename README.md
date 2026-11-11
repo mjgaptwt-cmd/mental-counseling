@@ -6,7 +6,7 @@
 
 ## デモ
 
-- デモ動画: https://youtu.be/a6EOV9b3_9Y
+- デモ動画:https://youtu.be/GV0grZC4axk
 
 ### 分析中の画面
 <img src="docs/images/loading.png" width="1200" alt="分析中">
